@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="75976fda-569d-46f8-b9cb-a1fe9d40127d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/awesomeProject/Bank.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/awesomeProject/Item.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/awesomeProject/User.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/awesomeProject/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/awesomeProject/VendingMachine.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/awesomeProject/Item.cs" />
+        <option value="$PROJECT_DIR$/awesomeProject/Bank.cs" />
+        <option value="$PROJECT_DIR$/awesomeProject/Program.cs" />
+        <option value="$PROJECT_DIR$/awesomeProject/User.cs" />
+        <option value="$PROJECT_DIR$/awesomeProject/VendingMachine.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1azACwcEg5XmZwNXJG9E2fsHCrP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.SolutionExplorerActivator" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="awesomeProject" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/awesomeProject/bin/Debug/netcoreapp3.1/awesomeProject.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/awesomeProject/bin/Debug/netcoreapp3.1" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/awesomeProject/awesomeProject.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v3.1" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="75976fda-569d-46f8-b9cb-a1fe9d40127d" name="Default Changelist" comment="" />
+      <created>1587727924125</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587727924125</updated>
+      <workItem from="1587727925762" duration="932000" />
+      <workItem from="1587729044835" duration="5934000" />
+      <workItem from="1588756347390" duration="372000" />
+      <workItem from="1588756988194" duration="16160000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="137" y="97" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587729863305">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state x="137" y="97" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.825@0.23.1440.825" timestamp="1587729863305" />
+    <state width="1398" height="291" key="GridCell.Tab.0.bottom" timestamp="1588778576649">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state width="1398" height="291" key="GridCell.Tab.0.bottom/0.23.1440.825@0.23.1440.825" timestamp="1588778576649" />
+    <state width="1398" height="291" key="GridCell.Tab.0.center" timestamp="1588778576649">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state width="1398" height="291" key="GridCell.Tab.0.center/0.23.1440.825@0.23.1440.825" timestamp="1588778576649" />
+    <state width="1398" height="291" key="GridCell.Tab.0.left" timestamp="1588778576648">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state width="1398" height="291" key="GridCell.Tab.0.left/0.23.1440.825@0.23.1440.825" timestamp="1588778576648" />
+    <state width="1398" height="291" key="GridCell.Tab.0.right" timestamp="1588778576649">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state width="1398" height="291" key="GridCell.Tab.0.right/0.23.1440.825@0.23.1440.825" timestamp="1588778576649" />
+    <state x="272" y="174" key="Rider.ProjectTemplateDialog.Size" timestamp="1587727924432">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state x="272" y="174" key="Rider.ProjectTemplateDialog.Size/0.23.1440.825@0.23.1440.825" timestamp="1587727924432" />
+    <state x="383" y="169" width="672" height="678" key="search.everywhere.popup" timestamp="1588775016952">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state x="383" y="169" width="672" height="678" key="search.everywhere.popup/0.23.1440.825@0.23.1440.825" timestamp="1588775016952" />
+  </component>
+</project>
